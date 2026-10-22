@@ -8,7 +8,6 @@ print('digita tu primer numero')
 numero1 = float(input())
 print('digita tu segundo numero')
 numero2 = float(input())
-input() 
 #resultado
 print ('elige tu ecuacion: + - * / %')
 operacion = input()

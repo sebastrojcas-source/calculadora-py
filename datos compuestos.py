@@ -5,7 +5,7 @@ print(lista[3])
 #tupla (son una variable inmodificable)
 tupla = ['sebastian rojas','soy chino',True,1.60]
 tupla = ([3])
-#esto es vaido
+#esto es valido
 lista[3] = 'maquinola'
 
 #esto no 
